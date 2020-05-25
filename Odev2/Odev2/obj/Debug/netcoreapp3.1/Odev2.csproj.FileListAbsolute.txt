@@ -1,0 +1,12 @@
+C:\Users\Bera\source\repos\Odev2\Odev2\bin\Debug\netcoreapp3.1\Odev2.exe
+C:\Users\Bera\source\repos\Odev2\Odev2\bin\Debug\netcoreapp3.1\Odev2.deps.json
+C:\Users\Bera\source\repos\Odev2\Odev2\bin\Debug\netcoreapp3.1\Odev2.runtimeconfig.json
+C:\Users\Bera\source\repos\Odev2\Odev2\bin\Debug\netcoreapp3.1\Odev2.runtimeconfig.dev.json
+C:\Users\Bera\source\repos\Odev2\Odev2\bin\Debug\netcoreapp3.1\Odev2.dll
+C:\Users\Bera\source\repos\Odev2\Odev2\bin\Debug\netcoreapp3.1\Odev2.pdb
+C:\Users\Bera\source\repos\Odev2\Odev2\obj\Debug\netcoreapp3.1\Odev2.AssemblyInfoInputs.cache
+C:\Users\Bera\source\repos\Odev2\Odev2\obj\Debug\netcoreapp3.1\Odev2.AssemblyInfo.cs
+C:\Users\Bera\source\repos\Odev2\Odev2\obj\Debug\netcoreapp3.1\Odev2.csproj.CoreCompileInputs.cache
+C:\Users\Bera\source\repos\Odev2\Odev2\obj\Debug\netcoreapp3.1\Odev2.dll
+C:\Users\Bera\source\repos\Odev2\Odev2\obj\Debug\netcoreapp3.1\Odev2.pdb
+C:\Users\Bera\source\repos\Odev2\Odev2\obj\Debug\netcoreapp3.1\Odev2.genruntimeconfig.cache

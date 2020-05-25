@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "e2SwJxFksBaFlQV/8XBTFI0+rU5+yvCmH9zYy0ymDu5BBxZ60JOVAIRqDrtsxh2/jT4AQ4wjlqlHXPxORLp07A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bera\\source\\repos\\Odev1\\Odev1\\Odev1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bera\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
